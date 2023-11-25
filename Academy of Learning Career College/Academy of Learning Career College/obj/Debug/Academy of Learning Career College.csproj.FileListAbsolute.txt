@@ -1,0 +1,7 @@
+C:\Users\vladi\source\repos\Academy of Learning Career College\Academy of Learning Career College\bin\Debug\Academy of Learning Career College.exe.config
+C:\Users\vladi\source\repos\Academy of Learning Career College\Academy of Learning Career College\bin\Debug\Academy of Learning Career College.exe
+C:\Users\vladi\source\repos\Academy of Learning Career College\Academy of Learning Career College\bin\Debug\Academy of Learning Career College.pdb
+C:\Users\vladi\source\repos\Academy of Learning Career College\Academy of Learning Career College\obj\Debug\Academy of Learning Career College.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\Academy of Learning Career College\Academy of Learning Career College\obj\Debug\Academy of Learning Career College.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Academy of Learning Career College\Academy of Learning Career College\obj\Debug\Academy of Learning Career College.exe
+C:\Users\vladi\source\repos\Academy of Learning Career College\Academy of Learning Career College\obj\Debug\Academy of Learning Career College.pdb
