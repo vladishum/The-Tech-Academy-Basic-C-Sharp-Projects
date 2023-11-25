@@ -1,0 +1,6 @@
+C:\Users\vladi\source\repos\Acme Accounting Systems\Acme Accounting Systems\bin\Debug\Acme Accounting Systems.exe.config
+C:\Users\vladi\source\repos\Acme Accounting Systems\Acme Accounting Systems\bin\Debug\Acme Accounting Systems.exe
+C:\Users\vladi\source\repos\Acme Accounting Systems\Acme Accounting Systems\bin\Debug\Acme Accounting Systems.pdb
+C:\Users\vladi\source\repos\Acme Accounting Systems\Acme Accounting Systems\obj\Debug\Acme Accounting Systems.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Acme Accounting Systems\Acme Accounting Systems\obj\Debug\Acme Accounting Systems.exe
+C:\Users\vladi\source\repos\Acme Accounting Systems\Acme Accounting Systems\obj\Debug\Acme Accounting Systems.pdb
