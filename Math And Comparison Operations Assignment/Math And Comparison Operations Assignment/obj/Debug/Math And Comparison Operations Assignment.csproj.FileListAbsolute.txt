@@ -1,0 +1,6 @@
+C:\Users\vladi\source\repos\Math And Comparison Operations Assignment\Math And Comparison Operations Assignment\obj\Debug\Math And Comparison Operations Assignment.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Math And Comparison Operations Assignment\Math And Comparison Operations Assignment\bin\Debug\Math And Comparison Operations Assignment.exe.config
+C:\Users\vladi\source\repos\Math And Comparison Operations Assignment\Math And Comparison Operations Assignment\bin\Debug\Math And Comparison Operations Assignment.exe
+C:\Users\vladi\source\repos\Math And Comparison Operations Assignment\Math And Comparison Operations Assignment\bin\Debug\Math And Comparison Operations Assignment.pdb
+C:\Users\vladi\source\repos\Math And Comparison Operations Assignment\Math And Comparison Operations Assignment\obj\Debug\Math And Comparison Operations Assignment.exe
+C:\Users\vladi\source\repos\Math And Comparison Operations Assignment\Math And Comparison Operations Assignment\obj\Debug\Math And Comparison Operations Assignment.pdb
