@@ -1,0 +1,6 @@
+C:\Users\vladi\source\repos\String Assignment\String Assignment\bin\Debug\String Assignment.exe.config
+C:\Users\vladi\source\repos\String Assignment\String Assignment\bin\Debug\String Assignment.exe
+C:\Users\vladi\source\repos\String Assignment\String Assignment\bin\Debug\String Assignment.pdb
+C:\Users\vladi\source\repos\String Assignment\String Assignment\obj\Debug\String Assignment.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\String Assignment\String Assignment\obj\Debug\String Assignment.exe
+C:\Users\vladi\source\repos\String Assignment\String Assignment\obj\Debug\String Assignment.pdb
