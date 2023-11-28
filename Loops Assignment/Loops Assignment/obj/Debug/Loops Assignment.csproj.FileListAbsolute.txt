@@ -1,0 +1,7 @@
+C:\Users\vladi\source\repos\Loops Assignment\Loops Assignment\bin\Debug\Loops Assignment.exe.config
+C:\Users\vladi\source\repos\Loops Assignment\Loops Assignment\bin\Debug\Loops Assignment.exe
+C:\Users\vladi\source\repos\Loops Assignment\Loops Assignment\bin\Debug\Loops Assignment.pdb
+C:\Users\vladi\source\repos\Loops Assignment\Loops Assignment\obj\Debug\Loops Assignment.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\Loops Assignment\Loops Assignment\obj\Debug\Loops Assignment.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Loops Assignment\Loops Assignment\obj\Debug\Loops Assignment.exe
+C:\Users\vladi\source\repos\Loops Assignment\Loops Assignment\obj\Debug\Loops Assignment.pdb
