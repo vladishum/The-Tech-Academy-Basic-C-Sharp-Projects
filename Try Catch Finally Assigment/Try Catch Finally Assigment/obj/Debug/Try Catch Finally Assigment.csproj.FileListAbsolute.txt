@@ -1,0 +1,7 @@
+C:\Users\vladi\source\repos\Try Catch Finally Assigment\Try Catch Finally Assigment\bin\Debug\Try Catch Finally Assigment.exe.config
+C:\Users\vladi\source\repos\Try Catch Finally Assigment\Try Catch Finally Assigment\bin\Debug\Try Catch Finally Assigment.exe
+C:\Users\vladi\source\repos\Try Catch Finally Assigment\Try Catch Finally Assigment\bin\Debug\Try Catch Finally Assigment.pdb
+C:\Users\vladi\source\repos\Try Catch Finally Assigment\Try Catch Finally Assigment\obj\Debug\Try Catch Finally Assigment.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\Try Catch Finally Assigment\Try Catch Finally Assigment\obj\Debug\Try Catch Finally Assigment.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Try Catch Finally Assigment\Try Catch Finally Assigment\obj\Debug\Try Catch Finally Assigment.exe
+C:\Users\vladi\source\repos\Try Catch Finally Assigment\Try Catch Finally Assigment\obj\Debug\Try Catch Finally Assigment.pdb
