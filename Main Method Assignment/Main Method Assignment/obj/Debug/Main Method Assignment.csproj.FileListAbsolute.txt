@@ -1,0 +1,7 @@
+C:\Users\vladi\source\repos\Main Method Assignment\Main Method Assignment\bin\Debug\Main Method Assignment.exe.config
+C:\Users\vladi\source\repos\Main Method Assignment\Main Method Assignment\bin\Debug\Main Method Assignment.exe
+C:\Users\vladi\source\repos\Main Method Assignment\Main Method Assignment\bin\Debug\Main Method Assignment.pdb
+C:\Users\vladi\source\repos\Main Method Assignment\Main Method Assignment\obj\Debug\Main Method Assignment.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\Main Method Assignment\Main Method Assignment\obj\Debug\Main Method Assignment.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Main Method Assignment\Main Method Assignment\obj\Debug\Main Method Assignment.exe
+C:\Users\vladi\source\repos\Main Method Assignment\Main Method Assignment\obj\Debug\Main Method Assignment.pdb
