@@ -1,0 +1,7 @@
+C:\Users\vladi\source\repos\Class Method Assignment\Class Method Assignment\bin\Debug\Class Method Assignment.exe.config
+C:\Users\vladi\source\repos\Class Method Assignment\Class Method Assignment\bin\Debug\Class Method Assignment.exe
+C:\Users\vladi\source\repos\Class Method Assignment\Class Method Assignment\bin\Debug\Class Method Assignment.pdb
+C:\Users\vladi\source\repos\Class Method Assignment\Class Method Assignment\obj\Debug\Class Method Assignment.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Class Method Assignment\Class Method Assignment\obj\Debug\Class Method Assignment.exe
+C:\Users\vladi\source\repos\Class Method Assignment\Class Method Assignment\obj\Debug\Class Method Assignment.pdb
+C:\Users\vladi\source\repos\Class Method Assignment\Class Method Assignment\obj\Debug\Class Method Assignment.csproj.AssemblyReference.cache
