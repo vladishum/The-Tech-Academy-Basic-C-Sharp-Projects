@@ -1,0 +1,7 @@
+C:\Users\vladi\source\repos\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Parameters Assignment\Parameters Assignment\bin\Debug\Parameters Assignment.exe.config
+C:\Users\vladi\source\repos\Parameters Assignment\Parameters Assignment\bin\Debug\Parameters Assignment.exe
+C:\Users\vladi\source\repos\Parameters Assignment\Parameters Assignment\bin\Debug\Parameters Assignment.pdb
+C:\Users\vladi\source\repos\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.exe
+C:\Users\vladi\source\repos\Parameters Assignment\Parameters Assignment\obj\Debug\Parameters Assignment.pdb
