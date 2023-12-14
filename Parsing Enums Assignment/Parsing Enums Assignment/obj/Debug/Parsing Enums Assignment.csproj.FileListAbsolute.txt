@@ -1,0 +1,7 @@
+C:\Users\vladi\source\repos\Parsing Enums Assignment\Parsing Enums Assignment\bin\Debug\Parsing Enums Assignment.exe.config
+C:\Users\vladi\source\repos\Parsing Enums Assignment\Parsing Enums Assignment\bin\Debug\Parsing Enums Assignment.exe
+C:\Users\vladi\source\repos\Parsing Enums Assignment\Parsing Enums Assignment\bin\Debug\Parsing Enums Assignment.pdb
+C:\Users\vladi\source\repos\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.exe
+C:\Users\vladi\source\repos\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.pdb
