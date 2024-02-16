@@ -1,0 +1,18 @@
+﻿@using CarInsurance.Models
+@model List<Insuree>
+<div class="container text-center">
+    <table class="table">
+        <thead>
+            <h3>QUOTES</h3>
+        </thead>
+        @foreach (var insuree in Model)
+        {
+            <input type="hidden" name="Id" value="@insuree.Id" />
+            <tr class="text-center">
+                <td>@insuree.FirstName</td>
+                <td>@insuree.LastName</td>
+                <td>@insuree.EmailAddress</td>
+            </tr>
+        }
+    </table>
+ </div>
